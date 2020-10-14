@@ -9,3 +9,8 @@ Python flask for http server
 HTML/CSS/Javascript for UI
 
 It also includes some practise fuzzy logic control system and stuffs.
+
+For Hacktoberfest2020:
+  1. This repo is basically to help early learners in field of Data Science.It helps them by giving some niche ideas for projects and some starter guides.
+  2. To contribute and help grow together, firstly fork the repo and then add your help or project there and commits your efforts to the repo and open the pull request.
+  3. If the commit is valid and does adds some value to the rep, your commit will be accepted and merged.
